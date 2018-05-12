@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6360
     wikipedia: http://en.wikipedia.org/wiki/Edward_Singleton_Holden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29031#Sir-William-Herschel--His-Life-and-Works
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2009-06-03'
 gutenberg_type: Text
