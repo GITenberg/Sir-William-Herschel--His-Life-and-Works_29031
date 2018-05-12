@@ -1,0 +1,36 @@
+_repo: Sir-William-Herschel--His-Life-and-Works_29031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holden, Edward S. (Edward Singleton)
+    aliases:
+    - Holden, E. S. (Edward Singleton)
+    - Singleton, Adam
+    - Holden, Edward Singleton
+    - Atherton, Edward
+    birthdate: 1846
+    deathdate: 1914
+    gutenberg_agent_id: '6360'
+    url: http://www.gutenberg.org/2009/agents/6360
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Singleton_Holden
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2009-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- Great Britain -- History -- 19th century'
+- !lcc 'QB'
+- !lcsh 'Herschel, William, Sir, 1738-1822'
+- !lcsh 'Astronomy -- Great Britain -- History -- 18th century'
+- !lcsh 'Astronomers -- Great Britain -- Biography'
+title: 'Sir William Herschel: His Life and Works'
+url: http://www.gutenberg.org/ebooks/29031
